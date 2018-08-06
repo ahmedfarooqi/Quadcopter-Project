@@ -1,1 +1,7 @@
-drones
+Frame– 
+Motors-
+ESCs – 
+Battery – 
+Arduino board – Nano, Uno.
+IMU – 
+RC Controller-
