@@ -1,8 +1,9 @@
 ﻿Frame– 3d print
 Motors- [ https://www.amazon.com/DX2205-2300KV-Brushless-Motors-Protected/dp/B01KFD3WBU ]
-ESCs –	[ https://www.amazon.com/gp/product/B076BDHCHX/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1 ]
-Props - [ https://www.amazon.com/gp/product/B01B1GLRV2/ref=ox_sc_act_title_1?smid=A2VJ6AEUENP7CN&psc=1 ] 
-Battery – 
+ESCs –	[ https://www.amazon.com/gp/product/B076BDHCHX/ ]
+Props - [ https://www.amazon.com/gp/product/B01B1GLRV2/ ] 
+Battery – [ https://www.amazon.com/gp/product/B013I9RLVK/ ]
+Charger - [ https://www.amazon.com/gp/product/B01NB9A36R ]
 Arduino board – SparkFun RedBoard
 IMU – 
 RC Controller- FLYSKY T6 [ https://www.amazon.com/gp/product/B00KHJ262Y/ ]
